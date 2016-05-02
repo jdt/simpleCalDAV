@@ -1,0 +1,17 @@
+{
+  "name": "jdt/simplecaldav",
+  "type": "library",
+  "keywords": ["caldav","client", "simple"],
+  "description": "A simple and complete php caldav client",
+  "homepage": "https://github.com/jdt/simpleCalDAV",
+  "minimum-stability": "stable",
+  "license": "GPL-2.0",
+  "require": 
+  {
+    "php": ">=5.3.0"
+  },
+  "autoload": 
+  {
+    "classmap": ["/"]
+  }
+}
